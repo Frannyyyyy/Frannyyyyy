@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Frannyyyyy
-- 👀 I’m interested in gaming, music, marvel, movies, comics
+- 👀 I’m interested in @gaming, @music, marvel, movies, comics
 - 🌱 I’m currently learning website developing, content creation
 
 <!---
